@@ -9,8 +9,11 @@
 
 - 📫 How to reach me **dominik-chabro@wp.pl**
 
-- ⚡ Fun fact **Im think about move to Australia**
+- ⚡ Fun fact **I'm thinking about move to Australia**
 
+- 💙 I love ** Riding motorycycle and Fishing**
+
+- 🔥Everyday I want to be better 1% than yesterday🔥
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dominik chabros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominik chabros" height="30" width="40" /></a>
