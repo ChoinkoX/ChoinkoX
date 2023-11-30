@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working **on a few projects in flutter**
 
-- 🌱 I’m currently learning **BLOC , Rest API , Flutter , Dart**
+- 🌱 I’m currently learning **BLOC , Rest API , Flutter , Dart** 
 
 - 👯 I’m looking to collaborate **flutter junior / trainee**
 
 - 📫 How to reach me **dominik-chabro@wp.pl**
 
-- ⚡ Fun fact **I'm thinking about move to Australia**
+- ⚡ Fun fact *After hours i love making games in UE5 
 
 - 💙 I love ** Riding motorycycle and Fishing**
 
